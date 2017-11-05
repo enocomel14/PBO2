@@ -8,4 +8,10 @@ public class myframe {
  string pesan;
  int bilbulat;
  double bildesimal;
+ 
+ void cetakAttribute(){
+     system.out.println("isi dari pesan :"+pesan);
+     system.out.println("isi dari bibulat:"+bilbulat);
+     system.out.println("isi dari bildesimal:"+bildesimal);
+ }
 }
