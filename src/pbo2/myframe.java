@@ -5,5 +5,7 @@
  */
 package pbo2;
 public class myframe {
-    
+ string pesan;
+ int bilbulat;
+ double bildesimal;
 }
