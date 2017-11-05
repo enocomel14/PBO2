@@ -10,6 +10,8 @@ myframe m = new myFrame();
 m.pesan = "hello...";
 m.bilbulat = 5;
 m.bildesimal = 3.14;
+
+m.cetakAttribute();
     }
     
 }
